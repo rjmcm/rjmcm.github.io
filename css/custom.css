@@ -1,0 +1,6 @@
+.offsetanchor {
+	display: block;
+	position: relative;
+	top: -60px;
+	visibility: hidden;
+	}
